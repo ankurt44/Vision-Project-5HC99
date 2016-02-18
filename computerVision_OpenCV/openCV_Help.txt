@@ -1,0 +1,3 @@
+
+To compile openVC code
+g++ read_video.cpp `pkg-config --libs --cflags opencv`
